@@ -13,4 +13,14 @@ Seconds the employees have to constantly check the rotation sheet. Because there
 
 The solution. 
 
-A web based applications where the manager can drag and drop employees from a list of employees available to the shift block theyl
+A web based applications where the manager can drag and drop employees from a list of employees available to the shift block they need to be covered. 
+
+The system will show the maximum amount of hours an employee can make weekly  and automatically rest the hours assigned to that numbers making it easier for the manager. 
+
+The system will print the agreed schedule to a physical sheet of paper to be published in the information board visble for every one. 
+
+Aditionally the system will send notification to all employees affected by the changes  via mail and or sms or any other communication Chanel. 
+
+The unfinished schedule should be available as well to keep track of status. 
+
+The system should allow employees to request revision or notify absence to be approved by management and reassign those missing hours to another employee. The system should suggest the best options based on availability and eagerness of employees to make more hours. 

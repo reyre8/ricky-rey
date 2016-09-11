@@ -23,4 +23,29 @@ Aditionally the system will send notification to all employees affected by the c
 
 The unfinished schedule should be available as well to keep track of status. 
 
-The system should allow employees to request revision or notify absence to be approved by management and reassign those missing hours to another employee. The system should suggest the best options based on availability and eagerness of employees to make more hours. 
+The system should allow employees to request revision or notify absence to be approved by management and reassign those missing hours to another employee. The system should suggest the best options based on availability and eagerness of employees to make more hours.
+
+Hosting and confidentiality. 
+
+For the functional prototype we will host the system outside the organization, but it will be probably hosted and manages within Zara, and we need to secure that the system won't leak and information. 
+
+Scope 
+
+Initially we will propose the solution to Zara Henry Street Dublin.  But the system has to beeasy to transfer and implement in any other Zara shop. 
+
+ Objectives 
+
+Ensure that all required roles will be covered all days in the store. 
+
+Prevent absences with enough time to find someone to cover it. 
+
+Ensure that all employees know when and what time they have to go to work. 
+
+Calculate the exact amount of hours an employee worked. Making easy the calculation of payment. 
+
+Avoid overlaps of employees scheduled by mistake. 
+
+Ensure all hours and roles are covered
+
+
+

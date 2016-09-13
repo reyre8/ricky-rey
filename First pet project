@@ -1,12 +1,16 @@
 First pet project
 
-Develop a system that allows Zaras floor managers to set up and arrange the rotation schedule of their employees on daily basis. Sending notifications to everyone of the employees via mail and or sms 
+The Name:
+
+RotaZ
+
+Develop a system that allows Zara's floor managers to set up and arrange the rotation schedule of their employees on daily basis. Sending notifications to everyone of the employees via mail and or sms 
 
 The problem
 
 Currently the floor manager of Zara Henry Street arranges the schedule of employees rotation by hand on a sheet of paper that employees photograph and share via social networks. Of course this tents to  be buggy for both managers and employees. 
 
-First the manager has to be careful  not to overlap to employees, no to overassign hours to an employee and so on. 
+First the manager has to be careful not to overlap to employees, no to overassign hours to an employee and so on. 
 
 
 Seconds the employees have to constantly check the rotation sheet. Because there are last minute changes and even if the employee doesn't work that day they need to have a copy of the rotation sheet to be aware if the next day they will work and the hours they will do. 
@@ -15,7 +19,7 @@ The solution.
 
 A web based applications where the manager can drag and drop employees from a list of employees available to the shift block they need to be covered. 
 
-The system will show the maximum amount of hours an employee can make weekly  and automatically rest the hours assigned to that numbers making it easier for the manager. 
+The system will show the maximum amount of hours an employee can make weekly  and automatically substract the hours assigned to that number making it easier for the manager to arrange the rotation. 
 
 The system will print the agreed schedule to a physical sheet of paper to be published in the information board visble for every one. 
 
@@ -27,13 +31,13 @@ The system should allow employees to request revision or notify absence to be ap
 
 Hosting and confidentiality. 
 
-For the functional prototype we will host the system outside the organization, but it will be probably hosted and manages within Zara, and we need to secure that the system won't leak and information. 
+For the functional prototype we will host the system outside the organization, but it will be probably hosted and managed within Zara, and we need to secure that the system won't leak any information. 
 
 Scope 
 
-Initially we will propose the solution to Zara Henry Street Dublin.  But the system has to beeasy to transfer and implement in any other Zara shop. 
+Initially we will propose the solution to Zara Henry Street Dublin.  But the system has to be easy to transfer and implement in any other Zara shop. 
 
- Objectives 
+ Objectives  
 
 Ensure that all required roles will be covered all days in the store. 
 
@@ -47,5 +51,11 @@ Avoid overlaps of employees scheduled by mistake.
 
 Ensure all hours and roles are covered
 
+
+Further solutions.
+
+Installing a biometric device is a straighforward idea so the management of the clock in and out is automatic and that information is sent to the schedule system.
+
+What is more that information might be sent to the HR and Financial department to comfirm the paymet of empleyees.
 
 
